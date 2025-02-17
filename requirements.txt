@@ -1,0 +1,5 @@
+openai>=1.0.0
+librosa>=0.10.0
+numpy>=1.20.0
+pretty_midi>=0.2.10
+pathlib>=1.0.1 
